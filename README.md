@@ -1,7 +1,7 @@
 ## Olá! Elvis aqui.
 
-- 🔭 Atualmente sou analista de negocio;
-- 🌱 Estou aprendendo JavaScript e Python (fullstack);
+- 👔 Atualmente sou analista de negocio;
+- 👨‍🎓 Estou aprendendo JavaScript e Python (fullstack);
 - 💡 Tenho conhecimento em algumas ferramentas opensource;
 - 👯 Com essa aprendizagem e conhecimento, desejo compartilhar projetos aqui com a comunidade;
 - 📫 Meu contato é por aqui mesmo, basta me seguir e enviar uma mensagem;
