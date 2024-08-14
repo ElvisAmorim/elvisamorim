@@ -11,3 +11,5 @@ Você quer saber como fiz esse README? clique [aqui](https://github.com/anuragha
 Estou criando uma pagina dos meus projetos para melhor visualização e vou disponibilizar o link em breve
 
 Meus [repositorios](https://github.com/ElvisAmorim?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/elvisamorim/github-readme-stats)
