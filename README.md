@@ -12,4 +12,4 @@ Estou criando uma pagina dos meus projetos para melhor visualização e vou disp
 
 Meus [repositorios](https://github.com/ElvisAmorim?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?elvisamorim=anuraghazra&layout=compact)](https://github.com/elvisamorim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ElvisAmorim=anuraghazra&layout=compact)](https://github.com/ElvisAmorim/github-readme-stats)
