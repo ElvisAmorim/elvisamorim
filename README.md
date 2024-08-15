@@ -8,7 +8,7 @@
  
 Você quer saber como fiz esse README? clique [aqui](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md).
 
-Estou criando uma pagina dos meus projetos para melhor visualização e vou disponibilizar o link em breve
+⚠ Estou organizando os repositorios e liberando conforme o andamento, disponibilizando o link aqui.
 
 Meus [repositorios](https://github.com/ElvisAmorim?tab=repositories)
 
