@@ -10,6 +10,8 @@ Você quer saber como fiz esse README? clique [aqui](https://github.com/anuragha
 
 ⚠ Estou organizando os repositorios e liberando conforme o andamento, disponibilizando o link aqui.
 
+Meus projetos são separados por linguagem
+
 Meus [repositorios](https://github.com/ElvisAmorim?tab=repositories)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvisamorim&show_icons=true&theme=dracula)
